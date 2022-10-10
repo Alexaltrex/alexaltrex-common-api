@@ -1,0 +1,2 @@
+export const JWT_SECRET_SHOP = "SECRET_SHOP";
+export const JWT_SECRET_GZHATSK = "SECRET_GZHATSK"
